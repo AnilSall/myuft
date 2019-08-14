@@ -37,7 +37,11 @@ Version=14.52
 [TulipAddins]
 Database=
 File Content=
+Flex=
 Insight=
+Java=
+Mobile=
+Silverlight=
 Windows Applications=
 TEA=
 Web=

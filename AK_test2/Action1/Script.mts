@@ -13,6 +13,6 @@ WpfWindow("Micro Focus MyFlight Sample").WpfTable("flightsDataGrid").SelectCell 
 WpfWindow("Micro Focus MyFlight Sample").WpfButton("SELECT FLIGHT").Click @@ hightlight id_;_1940391872_;_script infofile_;_ZIP::ssf27.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfEdit("passengerName").Set "Anil" @@ hightlight id_;_1940408720_;_script infofile_;_ZIP::ssf28.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfButton("ORDER").Click @@ hightlight id_;_6293646_;_script infofile_;_ZIP::ssf41.xml_;_
-WpfWindow("Micro Focus MyFlight Sample").WpfObject("Order 136 completed").Check CheckPoint("Order 136 completed") @@ hightlight id_;_6293646_;_script infofile_;_ZIP::ssf40.xml_;_
-reporter.ReportEvent micDone,"mycheckpoint","check point has been tested"
+'WpfWindow("Micro Focus MyFlight Sample").WpfObject("Order 136 completed").Check CheckPoint("Order 136 completed") @@ hightlight id_;_6293646_;_script infofile_;_ZIP::ssf40.xml_;_
+'reporter.ReportEvent micDone,"mycheckpoint","check point has been tested"
 WpfWindow("Micro Focus MyFlight Sample").Close @@ hightlight id_;_6293646_;_script infofile_;_ZIP::ssf46.xml_;_
